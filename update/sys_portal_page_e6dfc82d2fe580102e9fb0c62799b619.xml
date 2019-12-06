@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2019-12-06 18:22:54">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-05 17:32:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e6dfc82d2fe580102e9fb0c62799b619</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>catalog_hospital_services</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_portal_page_e6dfc82d2fe580102e9fb0c62799b619</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-05 17:32:47</sys_updated_on>
+        <title>catalog_hospital_services</title>
+        <user/>
+        <view>catalog_hospital_services</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>1</offset>
+                <page display_value="catalog_hospital_services">e6dfc82d2fe580102e9fb0c62799b619</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                <sys_id>2788e0252f6980102e9fb0c62799b619</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_title</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">2788e0252f6980102e9fb0c62799b619</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>2388e0252f6980102e9fb0c62799b61a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">2788e0252f6980102e9fb0c62799b619</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>2388e0252f6980102e9fb0c62799b61b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;amp;amp;sysparm_parent=046528ed2f2980102e9fb0c62799b6fd&amp;amp;amp;amp;sysparm_catalog=396f042d2fe580102e9fb0c62799b689&amp;amp;amp;amp;sysparm_catalog_view=catalog_hospital_services</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">2788e0252f6980102e9fb0c62799b619</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>2788e0252f6980102e9fb0c62799b61a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>com.glideapp.servicecatalog.RenderCategory</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">2788e0252f6980102e9fb0c62799b619</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>2788e0252f6980102e9fb0c62799b61b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>&amp;lt;a onmousedown='Event.stop(event); return false;' class='category_title_link' href='com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;sysparm_parent=046528ed2f2980102e9fb0c62799b6fd&amp;amp;sysparm_catalog=396f042d2fe580102e9fb0c62799b689&amp;amp;sysparm_catalog_view=catalog_hospital_services&amp;amp;sysparm_view=catalogs_default'&amp;gt;Programs &amp;amp;amp; Classes&amp;lt;/a&amp;gt;</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">2788e0252f6980102e9fb0c62799b619</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>2b88e0252f6980102e9fb0c62799b61a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>396f042d2fe580102e9fb0c62799b689</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link_class</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">2788e0252f6980102e9fb0c62799b619</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>2f88e0252f6980102e9fb0c62799b61a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>category_title_link</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">2788e0252f6980102e9fb0c62799b619</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>a388e0252f6980102e9fb0c62799b61c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>e6dfc82d2fe580102e9fb0c62799b619</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>macro</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">2788e0252f6980102e9fb0c62799b619</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>a788e0252f6980102e9fb0c62799b619</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>sc_catalog_homepage_category_item</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">2788e0252f6980102e9fb0c62799b619</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>ab88e0252f6980102e9fb0c62799b619</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>046528ed2f2980102e9fb0c62799b6fd</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">2788e0252f6980102e9fb0c62799b619</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>ab88e0252f6980102e9fb0c62799b61b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>category</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog_view</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">2788e0252f6980102e9fb0c62799b619</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>af88e0252f6980102e9fb0c62799b61b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>catalog_hospital_services</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>1</offset>
+                <page display_value="catalog_hospital_services">e6dfc82d2fe580102e9fb0c62799b619</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                <sys_id>2b88e0252f6980102e9fb0c62799b61f</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>macro</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">2b88e0252f6980102e9fb0c62799b61f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>2388e0252f6980102e9fb0c62799b620</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>sc_catalog_homepage_category_item</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link_class</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">2b88e0252f6980102e9fb0c62799b61f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>2388e0252f6980102e9fb0c62799b621</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>category_title_link</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">2b88e0252f6980102e9fb0c62799b61f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>2388e0252f6980102e9fb0c62799b622</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>&amp;lt;a onmousedown='Event.stop(event); return false;' class='category_title_link' href='com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;sysparm_parent=1fe5e8612f6980102e9fb0c62799b61f&amp;amp;sysparm_catalog=396f042d2fe580102e9fb0c62799b689&amp;amp;sysparm_catalog_view=catalog_hospital_services&amp;amp;sysparm_view=catalogs_default'&amp;gt;Conditions &amp;amp;amp; Diseases&amp;lt;/a&amp;gt;</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_title</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">2b88e0252f6980102e9fb0c62799b61f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>2788e0252f6980102e9fb0c62799b620</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">2b88e0252f6980102e9fb0c62799b61f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>2788e0252f6980102e9fb0c62799b621</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;amp;amp;sysparm_parent=1fe5e8612f6980102e9fb0c62799b61f&amp;amp;amp;amp;sysparm_catalog=396f042d2fe580102e9fb0c62799b689&amp;amp;amp;amp;sysparm_catalog_view=catalog_hospital_services</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">2b88e0252f6980102e9fb0c62799b61f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>2b88e0252f6980102e9fb0c62799b620</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>com.glideapp.servicecatalog.RenderCategory</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">2b88e0252f6980102e9fb0c62799b61f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>2b88e0252f6980102e9fb0c62799b621</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>category</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">2b88e0252f6980102e9fb0c62799b61f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>2f88e0252f6980102e9fb0c62799b620</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>396f042d2fe580102e9fb0c62799b689</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog_view</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">2b88e0252f6980102e9fb0c62799b61f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>2f88e0252f6980102e9fb0c62799b621</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>catalog_hospital_services</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">2b88e0252f6980102e9fb0c62799b61f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>a788e0252f6980102e9fb0c62799b622</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>e6dfc82d2fe580102e9fb0c62799b619</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">2b88e0252f6980102e9fb0c62799b61f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>ab88e0252f6980102e9fb0c62799b61f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>1fe5e8612f6980102e9fb0c62799b61f</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>0</offset>
+                <page display_value="catalog_hospital_services">e6dfc82d2fe580102e9fb0c62799b619</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                <sys_id>a388e0252f6980102e9fb0c62799b616</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">a388e0252f6980102e9fb0c62799b616</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>2388e0252f6980102e9fb0c62799b619</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>e6dfc82d2fe580102e9fb0c62799b619</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">a388e0252f6980102e9fb0c62799b616</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>2788e0252f6980102e9fb0c62799b616</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>7cc32ced2f2980102e9fb0c62799b605</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_title</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">a388e0252f6980102e9fb0c62799b616</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>a388e0252f6980102e9fb0c62799b617</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog_view</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">a388e0252f6980102e9fb0c62799b616</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>a388e0252f6980102e9fb0c62799b618</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>catalog_hospital_services</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">a388e0252f6980102e9fb0c62799b616</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>a788e0252f6980102e9fb0c62799b617</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>396f042d2fe580102e9fb0c62799b689</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">a388e0252f6980102e9fb0c62799b616</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>a788e0252f6980102e9fb0c62799b618</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>category</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>macro</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">a388e0252f6980102e9fb0c62799b616</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>ab88e0252f6980102e9fb0c62799b616</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>sc_catalog_homepage_category_item</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link_class</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">a388e0252f6980102e9fb0c62799b616</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>ab88e0252f6980102e9fb0c62799b617</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>category_title_link</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">a388e0252f6980102e9fb0c62799b616</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>ab88e0252f6980102e9fb0c62799b618</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>&amp;lt;a onmousedown='Event.stop(event); return false;' class='category_title_link' href='com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;sysparm_parent=7cc32ced2f2980102e9fb0c62799b605&amp;amp;sysparm_catalog=396f042d2fe580102e9fb0c62799b689&amp;amp;sysparm_catalog_view=catalog_hospital_services&amp;amp;sysparm_view=catalogs_default'&amp;gt;Patient &amp;amp;amp; Visitors Services&amp;lt;/a&amp;gt;</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">a388e0252f6980102e9fb0c62799b616</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>af88e0252f6980102e9fb0c62799b616</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>com.glideapp.servicecatalog.RenderCategory</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">a388e0252f6980102e9fb0c62799b616</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>af88e0252f6980102e9fb0c62799b617</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;amp;amp;sysparm_parent=7cc32ced2f2980102e9fb0c62799b605&amp;amp;amp;amp;sysparm_catalog=396f042d2fe580102e9fb0c62799b689&amp;amp;amp;amp;sysparm_catalog_view=catalog_hospital_services</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>0</offset>
+                <page display_value="catalog_hospital_services">e6dfc82d2fe580102e9fb0c62799b619</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                <sys_id>a788e0252f6980102e9fb0c62799b61c</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog_view</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">a788e0252f6980102e9fb0c62799b61c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>2388e0252f6980102e9fb0c62799b61f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>catalog_hospital_services</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">a788e0252f6980102e9fb0c62799b61c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>2788e0252f6980102e9fb0c62799b61f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>e6dfc82d2fe580102e9fb0c62799b619</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>macro</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">a788e0252f6980102e9fb0c62799b61c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>2b88e0252f6980102e9fb0c62799b61c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>sc_catalog_homepage_category_item</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">a788e0252f6980102e9fb0c62799b61c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>2f88e0252f6980102e9fb0c62799b61c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>67c428212f6980102e9fb0c62799b6fd</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">a788e0252f6980102e9fb0c62799b61c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>2f88e0252f6980102e9fb0c62799b61e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>category</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">a788e0252f6980102e9fb0c62799b61c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>a388e0252f6980102e9fb0c62799b61d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>com.glideapp.servicecatalog.RenderCategory</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">a788e0252f6980102e9fb0c62799b61c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>a388e0252f6980102e9fb0c62799b61e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;amp;amp;sysparm_parent=67c428212f6980102e9fb0c62799b6fd&amp;amp;amp;amp;sysparm_catalog=396f042d2fe580102e9fb0c62799b689&amp;amp;amp;amp;sysparm_catalog_view=catalog_hospital_services</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_title</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">a788e0252f6980102e9fb0c62799b61c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>a788e0252f6980102e9fb0c62799b61d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">a788e0252f6980102e9fb0c62799b61c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>a788e0252f6980102e9fb0c62799b61e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>&amp;lt;a onmousedown='Event.stop(event); return false;' class='category_title_link' href='com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;sysparm_parent=67c428212f6980102e9fb0c62799b6fd&amp;amp;sysparm_catalog=396f042d2fe580102e9fb0c62799b689&amp;amp;sysparm_catalog_view=catalog_hospital_services&amp;amp;sysparm_view=catalogs_default'&amp;gt;Medical and Internal Services&amp;lt;/a&amp;gt;</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">a788e0252f6980102e9fb0c62799b61c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>ab88e0252f6980102e9fb0c62799b61d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>396f042d2fe580102e9fb0c62799b689</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link_class</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">a788e0252f6980102e9fb0c62799b61c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>af88e0252f6980102e9fb0c62799b61d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>category_title_link</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone999</dropzone>
+                <offset>0</offset>
+                <page display_value="catalog_hospital_services">e6dfc82d2fe580102e9fb0c62799b619</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                <sys_id>ab88e0252f6980102e9fb0c62799b622</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">ab88e0252f6980102e9fb0c62799b622</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>2388e0252f6980102e9fb0c62799b623</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>Shopping Cart</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">ab88e0252f6980102e9fb0c62799b622</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>2f88e0252f6980102e9fb0c62799b622</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>com.glideapp.servicecatalog.RenderCategory</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">ab88e0252f6980102e9fb0c62799b622</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>a788e0252f6980102e9fb0c62799b623</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>cart</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2019-12-05 11:20:43">ab88e0252f6980102e9fb0c62799b622</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-12-05 19:20:43</sys_created_on>
+                        <sys_id>ab88e0252f6980102e9fb0c62799b623</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-12-05 19:20:43</sys_updated_on>
+                        <value>e6dfc82d2fe580102e9fb0c62799b619</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>
